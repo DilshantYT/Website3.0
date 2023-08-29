@@ -1,0 +1,39 @@
+﻿License for XenForo style "XenTR Exclusive-Dark" and its variations
+--------------------------------------------------------------
+
+License Agreement
+Before purchasing a product from XenTR you must agree to these License Terms.
+
+Grant and Scope of License
+----------------------------
+Purchasing one license grants you the right to use the license on one live site. You may however use a copy for testing in a closed environment.
+----------------------------
+Rights
+This license is granted to You alone. You may not redistribute the Product in whole or in part. You may not rent, lease, sub-license, sell, assign, pledge, transfer or otherwise dispose of the Software in any form, on a temporary or permanent basis, without the prior written consent of XenTR.
+The Software is licensed to You for use only under the terms and conditions of the License. You acknowledge that all intellectual property rights, copyrights and trademarks in the Product belong to XenTR, that rights in the Product are licensed (not sold) to You, and that You have no rights in, or to, the Product other than the right to use them in accordance with the terms of this Agreement.
+Copyright notices embedded in the Styles must remain unaltered from the original and visible at all times, unless by specific prior arrangement with XenTR.
+
+---------------------------
+Restrictions
+For the avoidance of doubt, You are solely responsible for managing content posted using your installation of the Software (“Your Content”). XenTR shall have no liability in respect of Your Content including but not limited to its accuracy or lawfulness.
+
+---------------------------
+Termination
+The License for the Product is effective until terminated. You may terminate the License at any time by uninstalling the Product and destroying all copies of the Product.
+XenTR reserves the right to revoke Your License to use the Product should any of the terms of this Agreement be violated.
+
+---------------------------
+Support
+For the initial six months of the License (“Initial Period”), which shall commence upon payment by You of the applicable license Fee, We shall provide You with support to respond to any problems (“Support”) You are experiencing with the Product which result in it not complying with its description or the demonstration, as made available on Our website (“Problem”). Such Support and all product updates ("Updates") are included in the License Fee for the Initial Period. Additional payments ("Renewal Payments") will be required to extend access to Support and Updates beyond the Initial Period.
+
+---------------------------
+Indemnification
+You agree to indemnify, defend, and hold harmless XenTR and its officers, directors, agents, and employees from and against any and all demands, claims, losses and liabilities, including reasonable attorney's fees, arising out of or caused by Your or Your visitors’ use of the Software. This obligation shall survive the termination of this Agreement.
+
+---------------------------
+Refund Policy
+We will maintain a reasonable policy regarding requests for refunds. We reserve the right to refuse a refund or to apply a partial refund. An administration charge may be applied where a refund is offered.
+
+---------------------------
+Contact
+All inquiries regarding this Agreement should be directed to admin@xentr.net
